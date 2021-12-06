@@ -3,5 +3,5 @@
 
 
 - 🌱 I’m currently learning JavaScript, Data structure, and OOP.
-- 💬 Ask me about anything about my projects.
+- 💬 Ask me anything about my projects.
 - 📫 How to reach me: eng.omarmuhammad@gmail.com.

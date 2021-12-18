@@ -25,8 +25,7 @@
     </a>
   </div>
 
-
-  <div>
+  <div align="right">
     <h3>Frameworks:</h3>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img src="./photos/Bootstarb.png" alt="HTML5"/>

@@ -7,11 +7,12 @@
 
 <div align="center" width="100%">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar-Muhamad&show_icons=true&theme=dark&locale=en&layout=compact" alt="Omar Muhammad Languages" height="155"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Muhamad&theme=dark" alt="Omar Muhammad's Contributions" 
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Omar-Muhammad&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Omar Muhammad's Contributions" 
     height="155"/>
 </div>
+<br>
 
-### - Languages:
+### Languages:
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="./photos/HTML5.png" alt="HTML5"/>
@@ -22,6 +23,16 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="./photos/JS.png" alt="JavaScript"/>
 </a>
+<br>
 
-<br />
-### - Frameworks:
+### Frameworks:
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img src="./photos/HTML5.png" alt="HTML5"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <img src="./photos/CSS3.png" alt="CSS3"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="./photos/JS.png" alt="JavaScript"/>
+</a>
+<br>

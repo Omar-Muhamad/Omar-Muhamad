@@ -4,8 +4,7 @@
 </div>
 
 ## Languages and Frameworks:
-
-
+<br>
 <div align="center" width="100%">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar-Muhamad&show_icons=true&theme=dark&locale=en&layout=compact" alt="Omar Muhammad Languages" height="155"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Muhamad&theme=dark" alt="Omar Muhammad's Contributions" height="155"/>
@@ -24,18 +23,35 @@
   </a>
 </div>
 
-### Frameworks:
+### Frameworks & Tools:
 <div>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="./photos/Bootstarb.png" alt="HTML5"/>
+    <img src="./photos/Bootstarb.png" alt="Bootstrap"/>
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="./photos/SASS.png" alt="CSS3"/>
+    <img src="./photos/SASS.png" alt="SASS"/>
   </a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="./photos/Webpack.png" alt="JavaScript"/>
+    <img src="./photos/Webpack.png" alt="Webpack"/>
   </a>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="./photos/Jest.png" alt="JavaScript"/>
+    <img src="./photos/Jest.png" alt="Jest"/>
   </a>
 </div>  
+<br>
+
+## Contact me ⬇️
+<div>
+  <a href="https://www.linkedin.com/in/eng-omarmuhammad/" target="_blank" rel="noreferrer">
+    <img src="./photos/Linked-in.png" alt="Linked in"/>
+  </a>
+  <a href="https://twitter.com/Eng_OmarMuhamad" target="_blank" rel="noreferrer">
+    <img src="./photos/Twitter.png" alt="Twitter"/>
+  </a>
+  <a href="mailto:eng.omarmuhammad@gmail.com" target="_blank" rel="noreferrer">
+    <img src="./photos/Gmail.png" alt="Gmail"/>
+  </a>
+</div>
+
+#### Fun fact 
+* Open this [Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) and you will laugh 

@@ -11,30 +11,36 @@
 </div>
 <br>
 
-### Languages:
+<div>
+  <div>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="./photos/HTML5.png" alt="HTML5"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="./photos/CSS3.png" alt="CSS3"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="./photos/JS.png" alt="JavaScript"/>
-</a>
-<br>
+  ### Languages:
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <img src="./photos/HTML5.png" alt="HTML5"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img src="./photos/CSS3.png" alt="CSS3"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="./photos/JS.png" alt="JavaScript"/>
+    </a>
+  </div>
 
-### Frameworks:
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="./photos/Bootstarb.png" alt="HTML5"/>
-</a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-  <img src="./photos/SASS.png" alt="CSS3"/>
-</a>
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-  <img src="./photos/Webpack.png" alt="JavaScript"/>
-</a>
-<a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-  <img src="./photos/Jest.png" alt="JavaScript"/>
-</a>
-<br>
+
+  <div>
+
+  ### Frameworks:
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      <img src="./photos/Bootstarb.png" alt="HTML5"/>
+    </a>
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+      <img src="./photos/SASS.png" alt="CSS3"/>
+    </a>
+    <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
+      <img src="./photos/Webpack.png" alt="JavaScript"/>
+    </a>
+    <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+      <img src="./photos/Jest.png" alt="JavaScript"/>
+    </a>
+  </div>
+</div>

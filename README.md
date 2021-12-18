@@ -12,7 +12,7 @@
 <br>
 
 <div>
-  <div>
+  <div align="right">
     <h3>Languages:</h3>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img src="./photos/HTML5.png" alt="HTML5"/>

@@ -13,13 +13,13 @@
 
 ### - Languages:
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" width="60" margin-left="10">
   <img src="./photos/HTML5.png" alt="HTML5"/>
 </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" width="60">
   <img src="./photos/CSS3.png" alt="CSS3"/>
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" width="60">
   <img src="./photos/JS.png" alt="JavaScript"/>
 </a>
 

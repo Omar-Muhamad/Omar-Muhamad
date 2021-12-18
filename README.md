@@ -6,8 +6,8 @@
 ## Languages and Frameworks:
 
 <div align="center" width="100%">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar-Muhamad&show_icons=true&theme=dark&locale=en&layout=compact" alt="Omar Muhammad Languages" height="155" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Muhamad&theme=dark" alt="Omar Muhammad's Contributions" height="155" width="50%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar-Muhamad&show_icons=true&theme=dark&locale=en&layout=compact" alt="Omar Muhammad Languages" height="155" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Muhamad&theme=dark" alt="Omar Muhammad's Contributions" height="155" width="45%"/>
 </div>
 <br>
 

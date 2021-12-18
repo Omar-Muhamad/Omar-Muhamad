@@ -6,7 +6,7 @@
 ### Languages and Frameworks:
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar-Muhamad&show_icons=true&theme=dark" alt="Omar Muhammad Languages" height="155"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar-Muhamad&show_icons=true&theme=dark&locale=en&layout=compact" alt="Omar Muhammad Languages" height="155"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Muhamad&theme=dark" alt="Omar Muhammad's Contributions" 
     height="155"/>
 </div>

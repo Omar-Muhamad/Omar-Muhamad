@@ -13,8 +13,7 @@
 
 <div>
   <div>
-
-  ### Languages:
+    <h3>Languages:</h3>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img src="./photos/HTML5.png" alt="HTML5"/>
     </a>
@@ -28,8 +27,7 @@
 
 
   <div>
-
-  ### Frameworks:
+    <h3>Frameworks:</h3>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img src="./photos/Bootstarb.png" alt="HTML5"/>
     </a>

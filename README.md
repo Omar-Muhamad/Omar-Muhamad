@@ -13,7 +13,7 @@
 
 ### - Languages:
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" width="70">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" width="30">
   <img src="./photos/HTML5.png" alt="HTML5"/>
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" width="70">

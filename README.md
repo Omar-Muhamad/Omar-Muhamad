@@ -11,7 +11,7 @@
 </div>
 <br>
 
-<div align="center">
+<div align="center" width="100%">
   <div align="left" width="47%">
     <h3>Languages:</h3>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">

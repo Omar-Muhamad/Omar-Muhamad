@@ -12,19 +12,34 @@
 
 ### Languages:
 <div>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="./photos/JS.png" alt="JavaScript"/>
+  </a>
+  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
+    <img src="./photos/Ruby.png" alt="Ruby"/>
+  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="./photos/HTML5.png" alt="HTML5"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="./photos/CSS3.png" alt="CSS3"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="./photos/JS.png" alt="JavaScript"/>
-  </a>
 </div>
 
-### Frameworks & Tools:
+### Frameworks & Liberaries:
 <div>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="./photos/React.png" alt="React"/>
+  </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="./photos/Redux.png" alt="Redux"/>
+  </a>
+  <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">
+    <img src="./photos/Rails.png" alt="Rails"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="./photos/Tailwind.png" alt="Tailwind"/>
+  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="./photos/Bootstarb.png" alt="Bootstrap"/>
   </a>
